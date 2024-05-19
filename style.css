@@ -2,5 +2,8 @@
 padding:0;
 }
 
-
-
+.jumbotron jumbotron-fluid 
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6304e1099430043d2c37850e/218c5453-8ad4-45f8-8e30-83037fdfc0d4/Screenshot+2024-04-24+000318.png?format=1500w);
+    
+}
