@@ -2,8 +2,21 @@
 padding:0;
 }
 
-.jumbotron jumbotron-fluid 
-body {
-    background-image: url(https://images.squarespace-cdn.com/content/v1/6304e1099430043d2c37850e/218c5453-8ad4-45f8-8e30-83037fdfc0d4/Screenshot+2024-04-24+000318.png?format=1500w);
-    
-}
+.jumbotron {
+    background-image: url(); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    height: calc (100vh-25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
+  }
