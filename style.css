@@ -1,22 +1,28 @@
 *{ margin:0;
 padding:0;
 }
+body {
+  font-family: Arial, sans-serif;
+}
 
 .jumbotron {
-    background-image: url(); */
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 500px;
-    height: calc (100vh-25px);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .jumboCopy {
-    width: 70%;
-    min-width: 500px;
-    max-width: 700px;
-    color: white;
-    text-align: center;
-  }
+  background-color: #768976;
+  margin-bottom: 0;
+  padding: 2rem 1rem;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+.bg-secondary {
+  height: 300px; /* Placeholder height for content blocks */
+}
+
+footer {
+  background-color: #f8f9fa;
+}
+
+p.thick problemStatement {
+font-weight:bold;
+}
