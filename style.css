@@ -1,6 +1,11 @@
 *{ margin:0;
 padding:0;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Arial, sans-serif;
 }
@@ -20,7 +25,7 @@ section {
 }
 
 footer {
-  background-color: #f8f9fa;
+  background-color: #768976;
 }
 
 p.thick problemStatement {
